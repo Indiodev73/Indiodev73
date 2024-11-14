@@ -1,6 +1,9 @@
+<div aling="center">
 ## Hi there 👋
 
 [![baner3.png](https://i.postimg.cc/5NVq7882/baner3.png)](https://postimg.cc/4nW9n78D)
+  
+</div>
 
 <!--
 **Indiodev73/Indiodev73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
