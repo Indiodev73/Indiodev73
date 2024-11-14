@@ -25,7 +25,7 @@
   
  - **Back-End Development**:
     
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  
 </p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -53,7 +53,7 @@
     <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-asial-diaz-476b15247/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-asial-diaz-476b15247/" target="_blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
     <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
@@ -64,17 +64,4 @@
   
 </div>
 
-<!--
-**Indiodev73/Indiodev73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
