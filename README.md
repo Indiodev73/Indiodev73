@@ -50,15 +50,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
+<!--     <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
-            width="40" /></a>
+            width="40" /></a> -->
     <a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-asial-diaz-476b15247/" target="_blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
+<!--     <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
-            width="40" /></a>
+            width="40" /></a> -->
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
