@@ -1,7 +1,7 @@
 <div aling="center">
 <h1 align="center">I'm <a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-asial-diaz-476b15247/" target="_blank"  rel="noreferrer">José María<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
-https://i.postimg.cc/JzptVGGC/header.png
+[![header.png](https://i.postimg.cc/JzptVGGC/header.png)](https://postimg.cc/pmnPKVfs)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
